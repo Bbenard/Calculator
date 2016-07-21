@@ -8,9 +8,7 @@ Its a basic calculator that performs the following:-
 
 **Tools Applied:-**
 
-
-
-
+Android studio SDK
 
 Addition
 
