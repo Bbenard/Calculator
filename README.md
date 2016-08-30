@@ -1,4 +1,10 @@
 #simple Android App Calculator
-Its a basic calculator that:-
+Its a basic calculator that performs the following:-
 
-adds 
+Addition
+
+Sustraction
+
+Division
+ 
+ Multiplication
